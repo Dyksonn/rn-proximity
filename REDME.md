@@ -1,0 +1,1 @@
+# Biblioteca para testar proximidade do celular
