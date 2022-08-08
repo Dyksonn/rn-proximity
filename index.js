@@ -1,7 +1,5 @@
-function proximity () {
-    return 'Proximidade';
-}
+import * as Prox from 'react-native-proximity';
 
 module.exports = {
-    proximity,
+    Prox,
 }

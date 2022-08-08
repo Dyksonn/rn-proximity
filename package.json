@@ -1,7 +1,7 @@
 {
   "name": "rn-proximity",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pacote util para verificar a proximidade do celular",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/Dyksonn/rn-proximity.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "dykson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dyksonn/rn-proximity/issues"
   },
-  "homepage": "https://github.com/Dyksonn/rn-proximity#readme"
+  "homepage": "https://github.com/Dyksonn/rn-proximity#readme",
+  "dependencies": {
+    "react-native-proximity": "^3.0.0"
+  }
 }
